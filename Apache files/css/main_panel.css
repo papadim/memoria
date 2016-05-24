@@ -1,0 +1,76 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto:300);
+
+
+body {
+    font-family: "Roboto", sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+h1 {
+    font-family: sans-serif;
+}
+button {
+    font-family: "Roboto", sans-serif;
+    outline: 0;
+    background: #f2f2f2;
+    width: 100%;
+    border: 0;
+    padding: 15px;
+    color: #FFFFF;
+    font-size: 14px;
+    -webkit-transition: all 0.3 ease;
+    transition: all 0.3 ease;
+    cursor: pointer;
+}
+button:hover,
+button:active,
+button:focus {
+    background: #808080;
+}
+.user_avatar {
+    float: left;
+    margin: 10px;
+}
+.user_info {
+    position: relative;
+    left: 1px;
+    top: 37px;
+}
+.page_title {
+    position: absolute;
+    left: 39%;
+    top: 5%;
+}
+.logout_and_timer {
+    position: absolute;
+    right: 2%;
+}
+.history {
+    position: absolute;
+    left: 2%;
+    top: 25%;
+    overflow: scroll;
+    border: 1px solid black;
+    width: 25%;
+    height: 60%;
+}
+.announcements {
+    position: absolute;
+    left: 30%;
+    top: 25%;
+    overflow: scroll;
+    border: 1px solid black;
+    width: 50%;
+    height: 35%;
+}
+img {
+    width: 100px;
+    height: 100px;
+    border: 3px solid black;
+    border-radius: 20px;
+}
+.buttons {
+    position: absolute;
+    bottom: 2%;
+    right: 2%;
+}
