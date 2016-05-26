@@ -15,4 +15,24 @@ Moreover, every public servant's activity is recorded into the database, subsequ
 
 The web based interface consists of 5 basic panels that remain the same regardless the country of implementation, and 2 more, whose content varies depending on the country's respective public sector servants' activities and privilages. The GUI was created with raw html+php , having in mind the known hardware limitations of most nations' public sectors equipment. We also aimed for minimalism and simplicity of use in order to achieve the lowest possible learning curve, considering the technological illiteracy of the users that this system is aimed for.
 
+5 basic panels:
 
+The 'login' panel
+
+The 'home' panel
+
+The 'scanner' pannel
+
+The 'advanced search' panel
+
+The 'citizen profile' panel
+
+2 dynamic panels:
+
+The 'register' panel
+
+The 'other actions' panel
+
+# Database
+
+The database (MySQL) implementation is the core of memoria. The database schema must be flexible(modular and abstract) in order for the system to be able to adapt to all countries in spite of the differences they may have. It must be also easy to understand in favor of maintenance and every other technical,or not, need that may emerge.
