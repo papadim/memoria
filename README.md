@@ -35,4 +35,4 @@ The 'other actions' panel
 
 # Database
 
-The database (MySQL) implementation is the core of memoria. The database schema must be flexible(modular and abstract) in order for the system to be able to adapt to all countries in spite of the differences they may have. It must be also easy to understand in favor of maintenance and every other technical,or not, need that may emerge.
+The database (MySQL) implementation is the core of memoria. The database schema is flexible(modular and abstract) in order for the system to be able to adapt to all countries in spite of the differences they may have. It is also easy to understand in favor of maintenance and every other technical,or not, need that may emerge.
