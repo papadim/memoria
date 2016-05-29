@@ -28,7 +28,7 @@ The 'scanner' pannel
  
 The 'advanced search' panel
 
- (Has not yet been designed since it's up to the country, that the system in being implemented on, public sector construction
+   (Has not yet been designed since it's up to the country, that the system in being implemented on, public sector construction
  
 The 'citizen profile' panel (here as seen by a doctor)
  ![screenshot 41](https://cloud.githubusercontent.com/assets/16741917/15634533/0ed7ca68-25cf-11e6-8b4b-6bce1eb22fbd.png)
