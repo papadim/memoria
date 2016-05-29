@@ -18,20 +18,31 @@ The web based interface consists of 5 basic panels that remain the same regardle
 5 basic panels:
 
 The 'login' panel
-
+ ![screenshot 36](https://cloud.githubusercontent.com/assets/16741917/15634535/0ede151c-25cf-11e6-81c5-a35841a502e0.png)
+ 
 The 'home' panel
-
+ ![screenshot 38](https://cloud.githubusercontent.com/assets/16741917/15634536/0ee0aeee-25cf-11e6-8005-72d6f7036573.png)
+ 
 The 'scanner' pannel
-
+ ![screenshot 35](https://cloud.githubusercontent.com/assets/16741917/15634534/0edaf7c4-25cf-11e6-98e1-4ca6cce4fdc5.png)
+ 
 The 'advanced search' panel
 
-The 'citizen profile' panel
+ (Has not yet been designed since it's up to the country, that the system in being implemented on, public sector construction
+ 
+The 'citizen profile' panel (here as seen by a doctor)
+ ![screenshot 41](https://cloud.githubusercontent.com/assets/16741917/15634533/0ed7ca68-25cf-11e6-8b4b-6bce1eb22fbd.png)
+
 
 2 dynamic panels:
 
-The 'register' panel
+The 'register' panel(here as seem by a police officer)
+ ![screenshot 43](https://cloud.githubusercontent.com/assets/16741917/15634538/0f1f1724-25cf-11e6-98fe-40c0102104d6.png)
+ 
 
-The 'other actions' panel
+The 'other actions' panel (here as seen by a department's chief)
+ ![screenshot 40](https://cloud.githubusercontent.com/assets/16741917/15634531/0ed24c46-25cf-11e6-967f-fa6c4baa67d1.png)
+ 
 
 # Database
 
